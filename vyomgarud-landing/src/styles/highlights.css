@@ -1,0 +1,13 @@
+.highlights-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.bullet {
+  padding: 15px 20px;
+  background: #111;
+  border-radius: 8px;
+  border: 1px solid #222;
+}
